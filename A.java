@@ -1,6 +1,5 @@
 public class A{
-    int a;
-    char b;
+    char a;
 }
     
 
